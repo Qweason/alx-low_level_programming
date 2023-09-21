@@ -1,9 +1,9 @@
 #include "main.h"
 /**
  * _strcar - concatenates two strings
- * @dest: copy to
- * @src: copy from
- * Return: 0  pointer to dust
+ * @dest: destination
+ * @src: source
+ * Return: the pointer to dest
  */
 char *_strcat(char *dest, char *src)
 {
